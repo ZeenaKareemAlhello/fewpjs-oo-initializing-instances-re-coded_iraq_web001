@@ -24,5 +24,5 @@ class Dinner{
   }
 }
 
-let lunchObj=new lunch('green','water','white');
+
 
